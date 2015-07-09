@@ -1,6 +1,3 @@
 best band ever!
-<<<<<<< HEAD
 fdafdafdasfdas
-=======
 maybe not
->>>>>>> 2befdf038d704342ddac853f2bf1ba85f27b19ee
